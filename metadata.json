@@ -1,0 +1,6 @@
+{
+  "name": "Hydra",
+  "description": "AI Life & Hydration Tracker - تطبيق ذكي لتتبع شرب الماء والترطيب اليومي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
